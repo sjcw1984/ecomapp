@@ -2,8 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-1. Create React App
-2. Create Git Repo
+1. Create React App v1-01-Create-React-App
+2. Create Git Repo V1-02-Create-Git-Repo
+3. List Products V2-01-List-Products
+   1. Create Products Array
+   2. Add Images
+   3. Render Products
+   4. Style Products
 
 ## Available Scripts
 
